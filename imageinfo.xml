@@ -1,0 +1,34 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/frontispiece.jpg" filesize="330987" filedate="2021-10-10 18:33:21" width="900px" height="1175px"/>
+<image path="images/ia.png" filesize="9363" filedate="2021-10-15 15:44:39" width="195px" height="197px"/>
+<image path="images/ia2.png" filesize="10377" filedate="2021-10-15 15:44:39" width="200px" height="197px"/>
+<image path="images/ib.png" filesize="9556" filedate="2021-10-15 15:44:40" width="198px" height="197px"/>
+<image path="images/ii.png" filesize="10213" filedate="2021-10-15 15:44:40" width="200px" height="200px"/>
+<image path="images/ii2.png" filesize="9442" filedate="2021-10-15 15:44:41" width="202px" height="200px"/>
+<image path="images/ii3.png" filesize="9178" filedate="2021-10-15 15:44:42" width="195px" height="197px"/>
+<image path="images/im.png" filesize="10337" filedate="2021-10-17 14:03:16" width="197px" height="195px"/>
+<image path="images/io.png" filesize="10335" filedate="2021-10-15 15:44:43" width="198px" height="196px"/>
+<image path="images/ip.png" filesize="9624" filedate="2021-10-17 14:03:18" width="198px" height="200px"/>
+<image path="images/it.png" filesize="9207" filedate="2021-10-15 15:44:43" width="196px" height="197px"/>
+<image path="images/it2.png" filesize="9761" filedate="2021-10-15 15:44:44" width="200px" height="200px"/>
+<image path="images/new-cover.jpg" filesize="229887" filedate="2021-10-17 19:59:33" width="960px" height="1440px"/>
+<image path="images/p001.jpg" filesize="429478" filedate="2021-10-16 12:12:17" width="1434px" height="954px"/>
+<image path="images/p008.jpg" filesize="384670" filedate="2021-10-15 15:44:45" width="939px" height="1407px"/>
+<image path="images/p010.jpg" filesize="342175" filedate="2021-10-15 15:44:46" width="1409px" height="960px"/>
+<image path="images/p012.jpg" filesize="347158" filedate="2021-10-15 15:44:46" width="1414px" height="977px"/>
+<image path="images/p038.jpg" filesize="372033" filedate="2021-10-16 12:12:17" width="963px" height="1288px"/>
+<image path="images/p040.jpg" filesize="369948" filedate="2021-10-16 12:12:18" width="962px" height="1312px"/>
+<image path="images/p042.jpg" filesize="343158" filedate="2021-10-16 22:59:49" width="1239px" height="964px"/>
+<image path="images/p050.jpg" filesize="206419" filedate="2021-10-16 22:59:49" width="1440px" height="699px"/>
+<image path="images/p052.jpg" filesize="369382" filedate="2021-10-16 22:59:50" width="1379px" height="964px"/>
+<image path="images/p054.jpg" filesize="262068" filedate="2021-10-17 14:03:18" width="1089px" height="963px"/>
+<image path="images/p058.jpg" filesize="312812" filedate="2021-10-17 14:03:19" width="1268px" height="975px"/>
+<image path="images/p092.jpg" filesize="356327" filedate="2021-10-17 14:03:19" width="1008px" height="1440px"/>
+<image path="images/p100.jpg" filesize="375219" filedate="2021-10-17 14:03:20" width="1398px" height="968px"/>
+<image path="images/p106.jpg" filesize="337712" filedate="2021-10-17 14:03:20" width="1268px" height="960px"/>
+<image path="images/p226.jpg" filesize="313776" filedate="2021-10-17 14:03:20" width="1031px" height="955px"/>
+<image path="images/p230.jpg" filesize="337496" filedate="2021-10-17 14:03:20" width="960px" height="1262px"/>
+<image path="images/qr66596.png" filesize="332" filedate="2021-10-23 09:25:52" width="296px" height="296px"/>
+<image path="images/signature.png" filesize="9392" filedate="2021-10-10 18:33:25" width="996px" height="266px"/>
+<image path="images/titlepage.png" filesize="57645" filedate="2021-10-16 22:59:57" width="810px" height="1440px"/>
+</images>
